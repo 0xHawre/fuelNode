@@ -171,3 +171,16 @@ fuel-core run \
   --sync-block-stream-buffer-size 30
 ```
 
+### step 24: exit tmux 
+```sh
+ CTRL + B then D
+```
+
+### now check youre RPC logs should be like this picture:
+
+24/25 request per 1 min
+
+<img width="1418" alt="Screenshot 2024-06-10 at 8 28 03 PM" src="https://github.com/0xHawre/fuelNode/assets/131952165/661a38c7-5195-4b99-be70-3f393b3ec034">
+
+
+
